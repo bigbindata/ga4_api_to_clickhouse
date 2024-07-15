@@ -27,6 +27,8 @@ FIELDS_TO_SET = {
             "source",
             "medium",
             "campaignName",
+            "platform",
+            "city"
             "customEvent:transaction_id"
         ],
         "metric_list": [],
